@@ -2,13 +2,13 @@
 
 ###
 
-<h4 align="left">👋 Hi there! I'm João Portolan.
+<h4 align="left"> Hi there! I'm João Portolan.
 
 By day, I’m a tech enthusiast obsessed with untangling code and chasing the next breakthrough. By night (or whenever inspiration strikes), I’m an artist at heart—whether that’s painting, sculpting ideas into digital art, or scribbling melodies. 
 
 For me, innovation isn’t just about logic or creativity —it’s where they collide. That sweet spot where sleek code meets bold design, and functional tech dances with soulful expression. Think of it as building bridges between circuits and canvases.
 
-🚀 Let’s create magic? Dive into my projects, shoot me a message, or let’s brainstorm something wild.
+Let’s create magic? Dive into my projects, shoot me a message, or let’s brainstorm something wild.
 
 
 ###
